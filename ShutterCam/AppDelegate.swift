@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Camera
+//  ShutterCam
 //
 //  Created by Rizwan on 16/06/17.
 //  Copyright © 2017 Rizwan. All rights reserved.
