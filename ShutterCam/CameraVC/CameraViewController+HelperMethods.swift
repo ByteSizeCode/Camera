@@ -1,6 +1,6 @@
 //
 //  CameraViewController+HelperMethods.swift
-//  Camera
+//  ShutterCam
 //
 //  Created by Isaac Raval on 5/14/19.
 //  Copyright © 2019 Isaac Raval. All rights reserved.
